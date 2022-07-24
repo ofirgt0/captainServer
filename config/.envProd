@@ -1,0 +1,35 @@
+JWT_SECRET = c2Rmc2RmeHZ4Y3Y0NTBkasdZmdkZmc5Nnl0dCk5NjB0aDQ1Nmdibnc0NXB1NnQ3aG40MzV3NjQzNnQ0NXdnMzRoZGZo
+JWT_EXPIRES_IN = 2d
+HOST = 213.8.152.171
+pBaseURL = https://captain-c.com/
+; for sending invoices
+defaultEmail = eilonn.zada@gmail.com 
+
+MainTerminal = captain
+TranzilaPW = BXXkTDK6
+; MainTerminal = captaintest
+; TranzilaPW = GaCdB3ed21
+
+
+gamaUsername = gamaslika
+gamaPassword = U07hR3FO
+gamaTerminal = 5794085014
+
+
+gamaReceiptIP = https://GW.Gamaf.co.il/
+gamaReceiptClientID = 1044702
+gamaReceiptclientSecret = c9ism
+
+cryptr_SECRET = sdfl87yxhu89xsyudsfjh9832yen0fdgh8dguym9dfgskdjmg98uewtg3812jmikjilmkkji90uj09jk098hu6r5
+
+
+DBHOST = 213.8.152.171
+DATABASE = admin_ticket4me_PROD
+USERDB = admin_ticket4
+PASSWORD = qDL6bJ8Wry
+DBPORT = 3306
+
+smsID = webstuff21
+smsPassword = webstuff754
+
+DebugMode = false

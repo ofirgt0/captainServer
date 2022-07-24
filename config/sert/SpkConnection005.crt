@@ -1,0 +1,129 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            d8:a4:cf:cc:d5:03:fe:b0:8d:45:75:3d:45:a0:26:37
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=Gama Management and Clearing - Payment
+        Validity
+            Not Before: Sep 30 09:03:42 2021 GMT
+            Not After : Sep 20 09:03:42 2023 GMT
+        Subject: C=IL, ST=Israel, L=Benei Barak, O=GAMA Management and Clearing ltd, OU=IT, CN=SpkConnection005
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (4096 bit)
+                Modulus:
+                    00:b4:c3:d7:4d:18:eb:92:aa:5e:a4:5a:53:da:38:
+                    fa:4c:e6:9a:0e:87:15:68:46:a6:07:94:82:80:35:
+                    5e:e9:81:e4:df:85:4b:44:27:da:92:9b:02:31:20:
+                    ce:3c:35:2d:f6:a6:78:a7:95:5e:48:ed:ba:16:6c:
+                    ed:c7:27:99:9e:0c:20:74:ed:32:1c:31:08:72:b2:
+                    6f:af:ca:06:ab:f8:79:32:85:8b:3b:c0:5b:69:2f:
+                    3b:d2:3c:b0:85:fb:86:69:f9:b0:2f:98:8e:24:19:
+                    c1:30:19:49:f6:e6:16:11:c2:30:37:ac:78:ea:69:
+                    5b:ab:67:e0:70:5d:9f:ac:31:f0:14:55:69:51:9a:
+                    5e:fc:eb:b3:c0:05:ef:5f:ab:1c:a8:57:28:e2:32:
+                    ea:9a:40:83:77:f0:0f:98:69:3f:56:70:f2:28:c0:
+                    c9:6d:a2:29:6b:bc:9b:98:7a:80:40:20:88:c5:61:
+                    93:d1:f1:d3:75:99:f8:5c:84:cb:55:ee:9a:28:49:
+                    69:93:8a:83:b7:d5:9b:0f:18:72:6c:c8:5d:82:3a:
+                    4a:ea:38:37:6e:3b:68:a5:d3:42:df:2b:77:0d:66:
+                    71:d0:ee:d9:ea:89:b9:36:a3:fc:f8:35:ff:ab:1b:
+                    9d:c9:a0:48:09:ce:3f:58:fc:59:cd:3a:88:13:88:
+                    2f:66:5e:64:d6:ef:75:b7:5f:f6:60:24:c3:7c:f9:
+                    b3:e7:a5:18:8a:87:49:1c:3b:e5:83:df:d6:a5:f6:
+                    05:b4:f8:3d:aa:66:c7:ab:a8:af:29:0c:14:9a:f6:
+                    b2:86:3b:b2:24:15:f7:a4:67:66:1f:4e:4c:12:80:
+                    92:81:5d:63:db:9f:29:4d:12:a5:f6:59:8a:5d:27:
+                    09:d4:2e:17:83:24:b5:eb:9c:56:a3:63:f8:51:e5:
+                    cb:35:ad:a3:2b:4a:92:1d:2f:f0:db:86:3b:5c:04:
+                    77:f2:4f:31:1f:f2:1c:a6:cb:bf:30:c0:c5:ab:60:
+                    ee:24:3f:1a:83:95:b0:ff:0a:55:36:d5:54:0a:14:
+                    1d:fd:d4:80:fb:fb:e6:08:46:1a:e5:72:c0:56:a2:
+                    ad:6d:a8:c2:0a:56:24:48:1f:92:05:3b:01:85:e1:
+                    8a:d0:97:39:d2:e9:dc:01:ee:8d:32:53:24:b2:82:
+                    45:70:a8:ab:b6:cf:bd:28:10:c2:fa:c4:05:46:ca:
+                    86:ec:fd:cc:8f:81:52:b4:6b:70:ca:e2:da:0a:2a:
+                    27:ef:5e:8a:0b:74:4d:d8:0a:05:16:72:1d:40:0a:
+                    7a:3f:c9:d6:b0:25:13:74:a7:5c:35:21:13:a1:4e:
+                    61:82:27:33:d2:aa:da:c5:85:47:c7:7f:b7:c0:1a:
+                    93:2f:8d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                FB:08:5A:CD:32:DC:F6:56:B8:40:54:11:6A:CE:35:5B:97:2C:30:EA
+            X509v3 Authority Key Identifier: 
+                keyid:7C:10:CF:9E:71:AD:66:ED:DC:CD:E1:3A:24:51:B7:5B:79:EC:BA:39
+                DirName:/CN=Gama Management and Clearing - Payment
+                serial:F7:25:28:21:C0:0D:F0:42
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         bb:0e:18:a9:04:48:93:88:3f:8d:b1:b9:bb:a1:9d:17:f1:32:
+         7e:48:6e:96:ee:ea:03:cd:f8:4d:e7:c8:93:9f:c1:eb:74:ef:
+         d6:9e:33:5a:0c:83:a6:88:33:de:bf:10:94:24:4a:f7:c5:b2:
+         07:9d:61:99:3c:c9:29:9a:7e:03:54:dd:37:48:c1:f5:70:90:
+         4a:07:88:52:c5:02:81:92:71:96:4e:d6:5d:29:fd:7a:fe:50:
+         0c:32:4e:51:38:73:76:63:a4:47:5c:dc:dc:d3:ef:b6:a0:68:
+         79:33:12:65:c6:a7:af:aa:80:7d:98:90:5a:4f:03:04:bc:fd:
+         de:d7:2e:3e:21:82:8d:b2:fa:98:25:03:cb:3a:ea:9f:61:2d:
+         31:28:5d:4b:6c:72:d5:8c:94:0b:f1:d2:c9:61:52:03:6f:85:
+         2e:56:b3:a3:15:11:ae:00:83:72:71:c2:cc:a9:e5:11:42:fa:
+         af:1e:b3:a1:7b:ab:00:6b:54:bb:fb:72:82:32:cb:f7:65:b4:
+         96:c1:12:12:b5:bd:43:8a:4b:11:0c:f6:dd:6c:5e:17:38:80:
+         b7:06:31:62:c7:5a:b0:4a:d6:39:bf:db:28:79:54:5f:56:43:
+         d5:53:3e:4a:f4:4e:2c:e7:e7:41:76:b0:b3:95:3f:2c:b7:1a:
+         35:8f:65:b6:b7:73:78:0a:89:d0:cc:96:de:37:07:e8:13:1e:
+         03:fe:2f:df:9b:92:a6:36:6b:9a:4d:1c:6b:79:b1:95:d0:06:
+         0b:a1:eb:f1:d4:3f:9c:19:6c:bf:47:b9:fa:6c:99:a3:88:28:
+         2d:e0:45:5a:59:3e:14:64:cd:82:0b:e7:d0:54:f7:47:8b:b4:
+         67:b9:b6:5c:2b:58:3b:7c:91:c4:bf:b8:42:0d:2b:c6:00:5b:
+         b5:27:42:97:ea:82:8c:52:3c:f6:3a:1d:7c:15:d5:0d:44:c7:
+         ac:14:e6:ed:78:37:ad:31:b9:2b:da:14:4d:d2:5b:ef:a4:3b:
+         75:58:86:05:9b:cd:3c:4d:8d:5c:33:fc:f5:3c:63:cb:52:00:
+         95:cf:cb:cc:af:2e:fe:d6:5a:5e:a5:fa:59:b9:94:fe:36:3d:
+         ce:51:01:f6:d8:a9:be:d4:d1:f3:fb:c7:8b:46:0f:34:30:0b:
+         2e:68:c6:d5:41:f8:d9:56:69:e5:89:e2:21:6c:70:f5:e9:cc:
+         34:af:5a:7b:ae:0b:d6:e8:59:5e:9a:82:81:c5:1f:b7:dc:05:
+         9c:2d:4c:7d:59:7e:8d:82:c7:5c:5b:43:e2:e1:c7:f0:96:1b:
+         68:b7:d7:b9:71:2c:19:55:17:3a:97:1b:9e:8a:41:70:b8:3e:
+         d1:7b:ea:7a:e5:f9:fa:62
+-----BEGIN CERTIFICATE-----
+MIIF9zCCA9+gAwIBAgIRANikz8zVA/6wjUV1PUWgJjcwDQYJKoZIhvcNAQELBQAw
+MTEvMC0GA1UEAxMmR2FtYSBNYW5hZ2VtZW50IGFuZCBDbGVhcmluZyAtIFBheW1l
+bnQwHhcNMjEwOTMwMDkwMzQyWhcNMjMwOTIwMDkwMzQyWjCBhzELMAkGA1UEBhMC
+SUwxDzANBgNVBAgMBklzcmFlbDEUMBIGA1UEBwwLQmVuZWkgQmFyYWsxKTAnBgNV
+BAoMIEdBTUEgTWFuYWdlbWVudCBhbmQgQ2xlYXJpbmcgbHRkMQswCQYDVQQLDAJJ
+VDEZMBcGA1UEAwwQU3BrQ29ubmVjdGlvbjAwNTCCAiIwDQYJKoZIhvcNAQEBBQAD
+ggIPADCCAgoCggIBALTD100Y65KqXqRaU9o4+kzmmg6HFWhGpgeUgoA1XumB5N+F
+S0Qn2pKbAjEgzjw1LfameKeVXkjtuhZs7ccnmZ4MIHTtMhwxCHKyb6/KBqv4eTKF
+izvAW2kvO9I8sIX7hmn5sC+YjiQZwTAZSfbmFhHCMDeseOppW6tn4HBdn6wx8BRV
+aVGaXvzrs8AF71+rHKhXKOIy6ppAg3fwD5hpP1Zw8ijAyW2iKWu8m5h6gEAgiMVh
+k9Hx03WZ+FyEy1XumihJaZOKg7fVmw8YcmzIXYI6Suo4N247aKXTQt8rdw1mcdDu
+2eqJuTaj/Pg1/6sbncmgSAnOP1j8Wc06iBOIL2ZeZNbvdbdf9mAkw3z5s+elGIqH
+SRw75YPf1qX2BbT4Papmx6uorykMFJr2soY7siQV96RnZh9OTBKAkoFdY9ufKU0S
+pfZZil0nCdQuF4MkteucVqNj+FHlyzWtoytKkh0v8NuGO1wEd/JPMR/yHKbLvzDA
+xatg7iQ/GoOVsP8KVTbVVAoUHf3UgPv75ghGGuVywFairW2owgpWJEgfkgU7AYXh
+itCXOdLp3AHujTJTJLKCRXCoq7bPvSgQwvrEBUbKhuz9zI+BUrRrcMri2goqJ+9e
+igt0TdgKBRZyHUAKej/J1rAlE3SnXDUhE6FOYYInM9Kq2sWFR8d/t8Aaky+NAgMB
+AAGjgbIwga8wCQYDVR0TBAIwADAdBgNVHQ4EFgQU+whazTLc9la4QFQRas41W5cs
+MOowYQYDVR0jBFowWIAUfBDPnnGtZu3czeE6JFG3W3nsujmhNaQzMDExLzAtBgNV
+BAMTJkdhbWEgTWFuYWdlbWVudCBhbmQgQ2xlYXJpbmcgLSBQYXltZW50ggkA9yUo
+IcAN8EIwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqGSIb3
+DQEBCwUAA4ICAQC7DhipBEiTiD+Nsbm7oZ0X8TJ+SG6W7uoDzfhN58iTn8HrdO/W
+njNaDIOmiDPevxCUJEr3xbIHnWGZPMkpmn4DVN03SMH1cJBKB4hSxQKBknGWTtZd
+Kf16/lAMMk5ROHN2Y6RHXNzc0++2oGh5MxJlxqevqoB9mJBaTwMEvP3e1y4+IYKN
+svqYJQPLOuqfYS0xKF1LbHLVjJQL8dLJYVIDb4UuVrOjFRGuAINyccLMqeURQvqv
+HrOhe6sAa1S7+3KCMsv3ZbSWwRIStb1DiksRDPbdbF4XOIC3BjFix1qwStY5v9so
+eVRfVkPVUz5K9E4s5+dBdrCzlT8stxo1j2W2t3N4ConQzJbeNwfoEx4D/i/fm5Km
+NmuaTRxrebGV0AYLoevx1D+cGWy/R7n6bJmjiCgt4EVaWT4UZM2CC+fQVPdHi7Rn
+ubZcK1g7fJHEv7hCDSvGAFu1J0KX6oKMUjz2Oh18FdUNRMesFObteDetMbkr2hRN
+0lvvpDt1WIYFm808TY1cM/z1PGPLUgCVz8vMry7+1lpepfpZuZT+Nj3OUQH22Km+
+1NHz+8eLRg80MAsuaMbVQfjZVmnlieIhbHD16cw0r1p7rgvW6FlemoKBxR+33AWc
+LUx9WX6NgsdcW0Pi4cfwlhtot9e5cSwZVRc6lxueikFwuD7Re+p65fn6Yg==
+-----END CERTIFICATE-----
